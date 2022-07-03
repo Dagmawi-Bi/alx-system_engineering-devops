@@ -1,2 +1,2 @@
-#!/bin/bassh
-ls -1t |"\n" head -11
+#!/bin/bash
+ls -1t | head -10
