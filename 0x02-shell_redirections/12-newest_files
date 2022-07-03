@@ -1,2 +1,2 @@
 #!/bin/bassh
-ls -1t |head -11
+ls -1t |"\n" head -11
