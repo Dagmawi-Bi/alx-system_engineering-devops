@@ -1,2 +1,2 @@
 #!/bin/bassh
-ls -ts |head -n 11
+ls -1t |head -10
